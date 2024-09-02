@@ -5,6 +5,9 @@ Finz is a personal finance management application built with Laravel. The goal o
 ## Features
 
 - **Income and Expense Tracking**: Log your income and expenses, categorize them, and keep track of your financial habits.
+
+## Upcoming Features
+
 - **Budgeting**: Set monthly budgets for different categories and monitor your spending to stay within your limits.
 - **Financial Reports**: Generate detailed reports to analyze your spending patterns and make informed financial decisions.
 - **Multi-Currency Support**: Manage your finances in multiple currencies if you have income or expenses in different currencies.
@@ -24,7 +27,7 @@ Finz is a personal finance management application built with Laravel. The goal o
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/finz.git
+   git clone https://github.com/angelbhawk/LaravelFinz.git
    cd finz
    ```
 
